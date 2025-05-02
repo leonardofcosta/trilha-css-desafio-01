@@ -1,3 +1,22 @@
+# Lab Project: Criando sua primeira Landing Page com HTML e CSS.
+
+### Lab Project finalizado!
+
+Ele é referente ao curso [Ri Happy - Front-end do Zero](https://web.dio.me/track/coding-future-front-end-do-zero) oferecido pela Digital Innovation One (DIO).
+
+### Tópico: Desenvolvendo suas Primeiras Páginas com HTML e CSS.
+
+**Ações realizadas no desafio:**
+
+* Foi feito um **fork** da banch main da [Trilha CSS desafio 01](https://github.com/digitalinnovationone/trilha-css-desafio-01), contendo arquivos base, HTML e imagens;
+* Interligação da página HTML com arquivo CSS; e
+* Desenvolvimento do arquivo CSS.
+
+Para visualizar o resultado final do desafio [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/).
+
+___
+
+
 # Desafio 01: Criando sua primeira Landing Page com HTML e CSS
 
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
