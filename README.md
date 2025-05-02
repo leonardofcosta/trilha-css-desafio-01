@@ -12,7 +12,7 @@ Ele é referente ao curso [Ri Happy - Front-end do Zero](https://web.dio.me/trac
 * Interligação da página HTML com arquivo CSS; e
 * Desenvolvimento do arquivo CSS.
 
-Para visualizar o resultado final do desafio [Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/).
+Para visualizar o resultado final do desafio [Clique aqui](https://leonardofcosta.github.io/trilha-css-desafio-01/).
 
 ___
 
